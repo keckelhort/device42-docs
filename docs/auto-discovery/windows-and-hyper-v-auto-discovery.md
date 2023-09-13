@@ -100,9 +100,9 @@ Check the _"Use LAPS (only Applies to WDS)"_ checkbox to enable it; Ensure "Quer
 
 Scroll down the discovery job page to see additional job options including _Exclusions_, _Naming_, _Host Discovery,_ _Hypervisor Options_, _Software and Applications_, and _Miscellaneous_ options.
 
-![](/assets/images/WEB-728_windows-hyper-v-ad-host-hypervisor-opts.png)
+![Adtl Opts Win Disco](https://github.com/keckelhort/device42-docs/assets/142325660/5bfa7295-40d0-4577-b205-452b1b0bf2a5)
 
-![](/assets/images/WEB-728_windows-hyper-v-ad-software-misc-opts-1.png)
+
 
 * * *
 
